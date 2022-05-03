@@ -23,7 +23,7 @@ label {
 h1{
 	margin-top: 18px;
 	margin-left: 50px;
-margin-bottom: 100px;
+    margin-bottom: 100px;
 }
 
 
@@ -33,9 +33,7 @@ footer .navbar-nav a{ color: rgb(0, 0, 0);	font-size: 0.8em; text-decoration: no
 footer .navbar-nav a:hover{	color: #ffffff;text-decoration: none;}
 footer ul{	list-style: none; }
 footer ul li{float: right; margin: 0 5px; }
-
-
-
+footer img{width: 48px; height:48px;}
 
 /*****************************IDs********************************************/
 #confInputLeft{
